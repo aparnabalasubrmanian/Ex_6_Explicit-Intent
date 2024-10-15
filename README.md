@@ -242,5 +242,3 @@ public class SecondActivity extends AppCompatActivity {
 Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
 
 
-## RESULT
-Thus a Simple Android Application create a Explicit Intents using Android Studio is developed and executed successfully.
